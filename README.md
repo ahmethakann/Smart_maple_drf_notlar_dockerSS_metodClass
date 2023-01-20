@@ -1,1 +1,1 @@
-# asd
+# Smart Maple İlk hafta çalışmaları.
